@@ -13,7 +13,7 @@ A TensorFlow implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07
  - https://www.youtube.com/watch?v=qhUvQiKec2U
  - https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c
 
-## 4. Prerequisites
+##  Prerequisites
 You need to have installed following softwares and libraries before running this project.
 1. Python 3: https://www.python.org/downloads/
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
@@ -30,7 +30,7 @@ Use `python run_dataset.py` to run the model on the dataset
 To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then open http://0.0.0.0:6006/ into your web browser.
 
 
-## 5. Libraries
+## Libraries
 * __tensorflow:__ TensorFlow provides multiple APIs.The lowest level API, TensorFlow Core provides you with complete programming control.
     * pip install tensorflow
     * conda install -c anaconda tensorflow
@@ -39,4 +39,4 @@ To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then 
     * conda install -c conda-forge opencv
     
 
-## Credits: https://github.com/SullyChen/Autopilot-TensorFlow
+#### Credits: https://github.com/SullyChen/Autopilot-TensorFlow
